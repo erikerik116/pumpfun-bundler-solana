@@ -1,4 +1,4 @@
-## PumpFun Bundler Bot
+## PumpFun Bundler
 
 This is a simple **PumpFun bundler Bot** – your ultimate solution for bundling on Pump.Fun with advanced profile creation and anti-bubble maps!
 
